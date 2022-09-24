@@ -1,0 +1,95 @@
+========+[ Rackspace Login ]+=========
+Email : 
+Password : 
+IP: 127.0.0.1
+HostName : Antonio-Davenci
+Date And Time : Thu Jul 28, 2022 10:59 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+========+[ Rackspace Login ]+=========
+Email : email@email.com
+Password : 11232432445
+IP: 127.0.0.1
+HostName : Antonio-Davenci
+Date And Time : Thu Jul 28, 2022 11:00 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+========+[ Rackspace Login ]+=========
+Email : mailer@mail.com
+Password : 12345678098
+IP: 127.0.0.1
+HostName : Antonio-Davenci
+Date And Time : Thu Jul 28, 2022 11:41 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+========+[ Rackspace Login ]+=========
+Email : [Email]
+Password : 1234567890
+IP: 127.0.0.1
+HostName : Antonio-Davenci
+Date And Time : Thu Jul 28, 2022 11:46 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+========+[ Rackspace Login ]+=========
+Email : [Email]
+Password : 080Valdes@
+IP: 127.0.0.1
+HostName : Antonio-Davenci
+Date And Time : Thu Jul 28, 2022 11:49 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+========+[ Office 365 Login ]+=========
+Email : royalmail@mail.com
+Password : 080Valdes@
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Thu Jul 28, 2022 5:02 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+========+[ Office 365 Login ]+=========
+Email : email@mail.com
+Password : 098065
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Thu Aug 11, 2022 1:43 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+========+[ Office 365 Login ]+=========
+Email : mail@mail.com
+Password : 123456789
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Mon Aug 15, 2022 6:02 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+========+[ Office 365 Login ]+=========
+Email : joseph.burrell@blackhillscorp.com
+Password : 080Valdes@
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Sat Sep 24, 2022 2:51 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
+========+[ Office 365 Login ]+=========
+Email : joseph.burrell@blackhillscorp.com
+Password : 080Valdes@
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Sat Sep 24, 2022 2:52 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
+========+[ Office 365 Login ]+=========
+Email : joseph.burrell@blackhillscorp.com
+Password : er65r756576
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Sat Sep 24, 2022 2:53 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
+========+[ Office 365 Login ]+=========
+Email : joseph.burrell@blackhillscorp.com
+Password : rtyhthytyu
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Sat Sep 24, 2022 2:53 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
+========+[ Office 365 Login ]+=========
+Email : joseph.burrell@blackhillscorp.com
+Password : wter6ye5
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Sat Sep 24, 2022 2:57 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
+========+[ Office 365 Login ]+=========
+Email : joseph.burrell@blackhillscorp.com
+Password : gosit
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Sat Sep 24, 2022 3:01 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
+========+[ Office 365 Login ]+=========
+Email : joseph.burrell@blackhillscorp.com
+Password : calmdown
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Sat Sep 24, 2022 3:01 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
